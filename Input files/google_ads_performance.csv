@@ -1,0 +1,402 @@
+date,campaign_name,impressions,clicks,cost
+2024-04-10,Summer Sale 2024,5414,324,456.21
+2024-04-11,Summer Sale 2024,3110,147,206.65
+2024-04-12,Summer Sale 2024,12022,670,2188.89
+2024-04-13,Summer Sale 2024,15965,591,983.25
+2024-04-14,Summer Sale 2024,13795,357,1198.47
+2024-04-15,Summer Sale 2024,18004,875,543.99
+2024-04-16,Summer Sale 2024,8929,107,127.53
+2024-04-17,Summer Sale 2024,976,37,111.51
+2024-04-18,Summer Sale 2024,2219,64,49.01
+2024-04-19,Summer Sale 2024,14531,287,801.84
+2024-04-20,Summer Sale 2024,13947,258,384.65
+2024-04-21,Summer Sale 2024,772,11,36.31
+2024-04-22,Summer Sale 2024,10675,280,660.02
+2024-04-23,Summer Sale 2024,8379,279,844.48
+2024-04-24,Summer Sale 2024,7743,197,194.27
+2024-04-25,Summer Sale 2024,7360,184,163.86
+2024-04-26,Summer Sale 2024,14102,723,1632.23
+2024-04-27,Summer Sale 2024,4005,120,296.73
+2024-04-28,Summer Sale 2024,3084,70,206.37
+2024-04-29,Summer Sale 2024,9041,225,294.65
+2024-04-30,Summer Sale 2024,3249,129,370.38
+2024-05-01,Summer Sale 2024,16778,576,1120.08
+2024-05-02,Summer Sale 2024,18478,513,689.27
+2024-05-03,Summer Sale 2024,13354,506,970.09
+2024-05-04,Summer Sale 2024,6214,259,173.88
+2024-06-30,Back to School Promo,14216,371,578.71
+2024-07-01,Back to School Promo,627,7,18.46
+2024-07-02,Back to School Promo,7055,243,463.26
+2024-07-03,Back to School Promo,10050,577,990.55
+2024-07-04,Back to School Promo,16559,338,1121.66
+2024-07-05,Back to School Promo,8617,165,185.81
+2024-07-06,Back to School Promo,11840,382,932.59
+2024-07-07,Back to School Promo,835,37,23.84
+2024-07-08,Back to School Promo,3726,148,186.95
+2024-07-09,Back to School Promo,16231,333,834.65
+2024-07-10,Back to School Promo,4481,139,187.04
+2024-07-11,Back to School Promo,7239,359,209.77
+2024-07-12,Back to School Promo,7750,259,569.36
+2024-07-13,Back to School Promo,7211,354,204.72
+2024-07-14,Back to School Promo,14867,351,624.33
+2024-07-15,Back to School Promo,14494,542,1886.42
+2024-07-16,Back to School Promo,11162,154,464.15
+2024-07-17,Back to School Promo,4968,157,90.31
+2024-07-18,Back to School Promo,18058,836,2060.65
+2024-07-19,Back to School Promo,9333,439,1144.54
+2024-07-20,Back to School Promo,2099,111,388.02
+2024-07-21,Back to School Promo,18660,251,532.37
+2024-07-22,Back to School Promo,8431,387,780.21
+2024-07-23,Back to School Promo,3165,37,66.08
+2024-07-24,Back to School Promo,955,48,96.36
+2024-07-25,Back to School Promo,7855,180,163.35
+2024-07-26,Back to School Promo,19225,914,2376.91
+2024-07-27,Back to School Promo,18173,650,2258.94
+2024-07-28,Back to School Promo,9261,343,235.85
+2024-07-29,Back to School Promo,16043,602,875.93
+2024-07-30,Back to School Promo,4482,160,368.47
+2024-07-31,Back to School Promo,1820,75,252.93
+2024-08-01,Back to School Promo,10391,141,457.41
+2024-08-02,Back to School Promo,3533,120,315.62
+2024-08-03,Back to School Promo,15131,343,253.33
+2024-02-02,Black Friday Blast,18445,316,620.05
+2024-02-03,Black Friday Blast,1615,43,75.3
+2024-02-04,Black Friday Blast,4237,57,39.73
+2024-02-05,Black Friday Blast,19663,1171,951.19
+2024-02-06,Black Friday Blast,10430,615,1666.93
+2024-02-07,Black Friday Blast,7497,362,1202.77
+2024-02-08,Black Friday Blast,13458,624,1916.8
+2024-02-09,Black Friday Blast,5118,301,586.76
+2024-02-10,Black Friday Blast,11903,403,1131.63
+2024-02-11,Black Friday Blast,9164,423,960.15
+2024-02-12,Black Friday Blast,11416,643,511.41
+2024-02-13,Black Friday Blast,2054,78,182.42
+2024-02-14,Black Friday Blast,11155,478,893.4
+2024-02-15,Black Friday Blast,9254,364,470.4
+2024-02-16,Black Friday Blast,16171,958,2377.13
+2024-02-17,Black Friday Blast,8055,126,295.75
+2024-02-18,Black Friday Blast,4895,128,236.21
+2024-02-19,Black Friday Blast,17648,666,676.18
+2024-02-20,Black Friday Blast,13830,212,613.38
+2024-02-21,Black Friday Blast,8899,458,1513.42
+2024-02-22,Black Friday Blast,3492,125,311.91
+2024-02-23,Black Friday Blast,2303,98,49.82
+2024-02-24,Black Friday Blast,19820,928,635.54
+2024-02-25,Black Friday Blast,7235,159,342.27
+2024-02-26,Black Friday Blast,12519,421,1465.76
+2024-02-27,Black Friday Blast,11261,397,857.07
+2024-02-28,Black Friday Blast,12192,576,968.77
+2024-02-29,Black Friday Blast,8657,89,235.04
+2024-03-01,Black Friday Blast,10314,607,2001.23
+2024-03-02,Black Friday Blast,13616,323,923.31
+2024-03-03,Black Friday Blast,19692,815,2279.98
+2024-03-04,Black Friday Blast,9895,513,786.78
+2024-03-05,Black Friday Blast,10902,186,254.6
+2024-03-06,Black Friday Blast,3676,119,107.07
+2024-03-07,Black Friday Blast,10599,542,487.88
+2024-03-08,Black Friday Blast,12096,390,457.67
+2024-03-09,Black Friday Blast,13111,479,1401.58
+2024-03-10,Black Friday Blast,9106,214,599.39
+2024-03-11,Black Friday Blast,14367,171,293.83
+2024-03-12,Black Friday Blast,17275,973,1357.83
+2024-03-13,Black Friday Blast,3648,162,240.9
+2024-03-14,Black Friday Blast,7561,348,1078.48
+2024-03-15,Black Friday Blast,5957,258,637.55
+2024-03-16,Black Friday Blast,10228,482,580.27
+2024-06-28,New Year Kickoff,17652,235,503.89
+2024-06-29,New Year Kickoff,2946,141,458.08
+2024-06-30,New Year Kickoff,13949,232,454.72
+2024-07-01,New Year Kickoff,19617,896,1317.18
+2024-07-02,New Year Kickoff,19893,1088,3154.88
+2024-07-03,New Year Kickoff,15604,433,768.51
+2024-07-04,New Year Kickoff,9988,287,802.95
+2024-07-05,New Year Kickoff,10825,149,308.34
+2024-07-06,New Year Kickoff,14184,452,845.21
+2024-07-07,New Year Kickoff,10028,327,633.73
+2024-07-08,New Year Kickoff,19437,243,290.93
+2024-07-09,New Year Kickoff,12572,250,198.51
+2024-07-10,New Year Kickoff,3049,56,144.67
+2024-07-11,New Year Kickoff,7656,362,1247.61
+2024-07-12,New Year Kickoff,17484,776,695.98
+2024-07-13,New Year Kickoff,17527,922,2286.54
+2024-07-14,New Year Kickoff,7290,351,540.06
+2024-07-15,New Year Kickoff,3754,91,94.14
+2024-07-16,New Year Kickoff,11496,302,944.77
+2024-07-17,New Year Kickoff,8417,485,1090.04
+2024-07-18,New Year Kickoff,6092,136,323.09
+2024-07-19,New Year Kickoff,18515,197,567.46
+2024-07-20,New Year Kickoff,11817,495,517.38
+2024-07-21,New Year Kickoff,13964,333,1055.36
+2024-07-22,New Year Kickoff,9573,185,454.38
+2024-07-23,New Year Kickoff,13349,338,329.81
+2024-07-24,New Year Kickoff,17071,263,391.86
+2024-07-25,New Year Kickoff,11910,412,245.98
+2024-07-26,New Year Kickoff,10002,323,539.39
+2024-07-27,New Year Kickoff,17929,402,862.63
+2024-07-28,New Year Kickoff,6988,400,588.88
+2024-07-29,New Year Kickoff,10483,540,687.14
+2024-07-30,New Year Kickoff,519,9,19.8
+2024-07-31,New Year Kickoff,5569,119,285.78
+2024-08-01,New Year Kickoff,4270,228,466.3
+2024-08-02,New Year Kickoff,3998,178,327.29
+2024-08-03,New Year Kickoff,8438,448,1067.81
+2024-08-04,New Year Kickoff,1897,35,40.34
+2024-08-05,New Year Kickoff,12661,427,810.22
+2024-02-26,Spring Clearance,8151,153,119.2
+2024-02-27,Spring Clearance,3745,130,388.27
+2024-02-28,Spring Clearance,8507,492,1405.68
+2024-02-29,Spring Clearance,6128,68,200.26
+2024-03-01,Spring Clearance,19780,249,847.94
+2024-03-02,Spring Clearance,9484,395,1037.88
+2024-03-03,Spring Clearance,7084,86,122.8
+2024-03-04,Spring Clearance,16912,686,2168.14
+2024-03-05,Spring Clearance,10778,635,982.36
+2024-03-06,Spring Clearance,966,32,45.38
+2024-03-07,Spring Clearance,14580,243,235.87
+2024-03-08,Spring Clearance,1893,61,160.76
+2024-03-09,Spring Clearance,3266,38,106.75
+2024-03-10,Spring Clearance,18832,461,983.57
+2024-03-11,Spring Clearance,16432,836,2516.71
+2024-03-12,Spring Clearance,9067,287,726.25
+2024-03-13,Spring Clearance,12268,543,408.17
+2024-03-14,Spring Clearance,16677,187,359.2
+2024-03-15,Spring Clearance,11791,178,508.0
+2024-03-16,Spring Clearance,14801,227,668.73
+2024-03-17,Spring Clearance,12920,592,1971.51
+2024-03-18,Spring Clearance,3682,166,152.55
+2024-03-19,Spring Clearance,8035,422,658.67
+2024-03-20,Spring Clearance,17968,1026,3326.16
+2024-03-21,Spring Clearance,11209,203,361.68
+2024-03-22,Spring Clearance,11149,282,229.37
+2024-03-23,Spring Clearance,5346,251,277.58
+2024-03-24,Spring Clearance,614,20,13.27
+2024-03-25,Spring Clearance,19433,360,688.4
+2024-03-26,Spring Clearance,666,36,72.63
+2024-03-27,Spring Clearance,8930,176,256.52
+2024-03-28,Spring Clearance,12770,499,1523.26
+2024-03-29,Spring Clearance,15579,249,432.63
+2024-03-30,Spring Clearance,12345,644,1647.71
+2024-03-31,Spring Clearance,7209,214,566.88
+2024-04-01,Spring Clearance,15565,713,1460.87
+2024-04-02,Spring Clearance,8357,465,318.39
+2024-04-03,Spring Clearance,15916,565,1281.65
+2024-04-04,Spring Clearance,18506,583,1562.56
+2024-04-05,Spring Clearance,17636,270,812.39
+2024-04-06,Spring Clearance,11118,288,189.75
+2024-04-07,Spring Clearance,19246,744,2112.66
+2024-04-08,Spring Clearance,7149,126,306.91
+2024-04-09,Spring Clearance,6740,365,1090.43
+2024-04-10,Spring Clearance,14233,786,890.67
+2024-04-11,Spring Clearance,19205,1027,3242.57
+2024-04-12,Spring Clearance,9555,495,1211.88
+2024-04-13,Spring Clearance,16945,333,464.67
+2024-04-14,Spring Clearance,11521,461,1051.35
+2024-04-15,Spring Clearance,9045,298,158.86
+2024-04-16,Spring Clearance,6160,332,864.23
+2024-03-09,Loyalty Rewards Push,13018,320,276.83
+2024-03-10,Loyalty Rewards Push,1879,44,94.96
+2024-03-11,Loyalty Rewards Push,6084,191,614.55
+2024-03-12,Loyalty Rewards Push,1355,78,88.97
+2024-03-13,Loyalty Rewards Push,7891,340,343.27
+2024-03-14,Loyalty Rewards Push,8721,431,418.56
+2024-03-15,Loyalty Rewards Push,3273,97,68.92
+2024-03-16,Loyalty Rewards Push,7622,270,802.52
+2024-03-17,Loyalty Rewards Push,17203,967,2604.0
+2024-03-18,Loyalty Rewards Push,16469,871,2052.5
+2024-03-19,Loyalty Rewards Push,7683,296,770.0
+2024-03-20,Loyalty Rewards Push,7260,402,1346.48
+2024-03-21,Loyalty Rewards Push,17047,936,2978.55
+2024-03-22,Loyalty Rewards Push,2005,72,90.96
+2024-03-23,Loyalty Rewards Push,2921,41,92.46
+2024-03-24,Loyalty Rewards Push,19088,557,1288.81
+2024-03-25,Loyalty Rewards Push,2401,35,51.75
+2024-03-26,Loyalty Rewards Push,15911,728,2159.75
+2024-03-27,Loyalty Rewards Push,19416,276,310.99
+2024-03-28,Loyalty Rewards Push,6912,356,852.58
+2024-03-29,Loyalty Rewards Push,14128,182,377.55
+2024-03-30,Loyalty Rewards Push,7820,170,208.0
+2024-03-31,Loyalty Rewards Push,9388,480,496.18
+2024-04-01,Loyalty Rewards Push,13972,653,363.82
+2024-04-02,Loyalty Rewards Push,12363,244,700.24
+2024-04-03,Loyalty Rewards Push,18431,407,1165.25
+2024-04-04,Loyalty Rewards Push,7849,450,775.09
+2024-04-05,Loyalty Rewards Push,9610,366,748.46
+2024-04-06,Loyalty Rewards Push,7938,298,529.47
+2024-04-07,Loyalty Rewards Push,19874,734,856.65
+2024-04-08,Loyalty Rewards Push,8932,282,654.7
+2024-04-09,Loyalty Rewards Push,4826,75,206.36
+2024-04-10,Loyalty Rewards Push,13950,576,1148.48
+2024-06-21,Product Launch - Aurora,8099,300,613.85
+2024-06-22,Product Launch - Aurora,15450,773,2587.78
+2024-06-23,Product Launch - Aurora,7477,201,467.06
+2024-06-24,Product Launch - Aurora,5082,63,125.38
+2024-06-25,Product Launch - Aurora,8195,469,849.22
+2024-06-26,Product Launch - Aurora,17689,955,1588.91
+2024-06-27,Product Launch - Aurora,6463,351,305.51
+2024-06-28,Product Launch - Aurora,7429,418,1067.06
+2024-06-29,Product Launch - Aurora,2866,153,368.73
+2024-06-30,Product Launch - Aurora,16915,1001,1212.51
+2024-07-01,Product Launch - Aurora,10701,370,345.52
+2024-07-02,Product Launch - Aurora,8086,332,738.69
+2024-07-03,Product Launch - Aurora,9339,329,764.19
+2024-07-04,Product Launch - Aurora,2868,145,338.94
+2024-07-05,Product Launch - Aurora,19993,567,592.07
+2024-07-06,Product Launch - Aurora,15938,237,406.58
+2024-07-07,Product Launch - Aurora,14274,710,1839.9
+2024-07-08,Product Launch - Aurora,4355,156,451.94
+2024-07-09,Product Launch - Aurora,10248,574,1115.32
+2024-07-10,Product Launch - Aurora,11457,120,332.73
+2024-07-11,Product Launch - Aurora,8271,206,509.39
+2024-07-12,Product Launch - Aurora,709,33,92.23
+2024-07-13,Product Launch - Aurora,3581,152,378.25
+2024-07-14,Product Launch - Aurora,6848,80,156.07
+2024-07-15,Product Launch - Aurora,6256,120,410.4
+2024-07-16,Product Launch - Aurora,16361,602,439.42
+2024-07-17,Product Launch - Aurora,2064,53,86.5
+2024-03-31,Holiday Gift Guide,16914,896,703.24
+2024-04-01,Holiday Gift Guide,17681,621,371.24
+2024-04-02,Holiday Gift Guide,8434,462,1206.31
+2024-04-03,Holiday Gift Guide,15460,186,541.48
+2024-04-04,Holiday Gift Guide,7599,249,606.05
+2024-04-05,Holiday Gift Guide,961,12,23.25
+2024-04-06,Holiday Gift Guide,14086,773,863.11
+2024-04-07,Holiday Gift Guide,12746,161,400.88
+2024-04-08,Holiday Gift Guide,3731,77,133.42
+2024-04-09,Holiday Gift Guide,19759,1182,2182.96
+2024-04-10,Holiday Gift Guide,14420,194,512.33
+2024-04-11,Holiday Gift Guide,7639,379,964.55
+2024-04-12,Holiday Gift Guide,6037,286,275.08
+2024-04-13,Holiday Gift Guide,13740,311,622.35
+2024-04-14,Holiday Gift Guide,11368,196,230.45
+2024-04-15,Holiday Gift Guide,15554,157,296.92
+2024-04-16,Holiday Gift Guide,3929,65,70.53
+2024-04-17,Holiday Gift Guide,2227,126,381.89
+2024-04-18,Holiday Gift Guide,6596,66,162.95
+2024-04-19,Holiday Gift Guide,13104,204,416.43
+2024-04-20,Holiday Gift Guide,2345,89,169.25
+2024-04-21,Holiday Gift Guide,19685,200,681.54
+2024-04-22,Holiday Gift Guide,19517,307,547.53
+2024-04-23,Holiday Gift Guide,7545,373,434.8
+2024-04-24,Holiday Gift Guide,653,28,23.36
+2024-04-25,Holiday Gift Guide,5078,127,345.97
+2024-04-26,Holiday Gift Guide,5953,202,559.75
+2024-04-27,Holiday Gift Guide,18696,642,1049.38
+2024-04-28,Holiday Gift Guide,11404,231,450.01
+2024-04-29,Holiday Gift Guide,3637,174,247.9
+2024-04-30,Holiday Gift Guide,14604,179,524.0
+2024-05-01,Holiday Gift Guide,12893,706,2299.61
+2024-05-02,Holiday Gift Guide,18960,798,1639.19
+2024-05-03,Holiday Gift Guide,2141,114,329.96
+2024-05-04,Holiday Gift Guide,11422,587,1982.52
+2024-05-05,Holiday Gift Guide,10726,273,468.17
+2024-05-06,Holiday Gift Guide,12926,611,747.17
+2024-05-07,Holiday Gift Guide,2463,37,65.89
+2024-05-08,Holiday Gift Guide,11780,242,409.74
+2024-05-09,Holiday Gift Guide,10785,389,341.3
+2024-05-10,Holiday Gift Guide,6260,356,466.04
+2024-05-11,Holiday Gift Guide,7508,420,990.09
+2024-05-12,Holiday Gift Guide,12481,583,1819.85
+2024-05-13,Holiday Gift Guide,17018,958,3014.86
+2024-05-14,Holiday Gift Guide,12866,573,1545.57
+2024-05-15,Holiday Gift Guide,9865,406,799.63
+2024-05-16,Holiday Gift Guide,16842,623,1663.5
+2024-05-17,Holiday Gift Guide,8270,158,497.57
+2024-05-18,Holiday Gift Guide,16710,769,824.17
+2024-05-05,Flash Sale Weekend,9614,407,672.89
+2024-05-06,Flash Sale Weekend,15367,614,1666.58
+2024-05-07,Flash Sale Weekend,7056,365,1210.81
+2024-05-08,Flash Sale Weekend,17897,704,800.73
+2024-05-09,Flash Sale Weekend,5725,59,191.57
+2024-05-10,Flash Sale Weekend,10094,349,1111.79
+2024-05-11,Flash Sale Weekend,16814,472,247.45
+2024-05-12,Flash Sale Weekend,7364,196,265.81
+2024-05-13,Flash Sale Weekend,4390,166,138.57
+2024-05-14,Flash Sale Weekend,10588,229,769.49
+2024-05-15,Flash Sale Weekend,2651,68,114.31
+2024-05-16,Flash Sale Weekend,16185,855,529.71
+2024-05-17,Flash Sale Weekend,12556,136,145.43
+2024-05-18,Flash Sale Weekend,12535,316,492.49
+2024-05-19,Flash Sale Weekend,9556,488,1421.63
+2024-05-20,Flash Sale Weekend,8360,307,299.73
+2024-05-21,Flash Sale Weekend,9527,223,221.15
+2024-05-22,Flash Sale Weekend,19119,252,831.24
+2024-05-23,Flash Sale Weekend,11141,523,304.36
+2024-05-24,Flash Sale Weekend,3200,42,46.74
+2024-05-25,Flash Sale Weekend,17586,690,730.73
+2024-05-26,Flash Sale Weekend,10762,450,988.53
+2024-05-27,Flash Sale Weekend,15053,441,718.02
+2024-05-28,Flash Sale Weekend,2760,48,104.86
+2024-05-29,Flash Sale Weekend,8430,497,1620.05
+2024-05-30,Flash Sale Weekend,19974,498,1324.61
+2024-05-31,Flash Sale Weekend,11696,554,1772.16
+2024-06-01,Flash Sale Weekend,5659,154,107.27
+2024-06-02,Flash Sale Weekend,13347,667,2242.25
+2024-06-03,Flash Sale Weekend,12160,589,1655.03
+2024-06-04,Flash Sale Weekend,13328,361,978.69
+2024-06-05,Flash Sale Weekend,853,12,41.83
+2024-06-06,Flash Sale Weekend,6633,84,262.05
+2024-06-07,Flash Sale Weekend,2533,38,37.8
+2024-06-08,Flash Sale Weekend,12602,554,870.94
+2024-06-09,Flash Sale Weekend,10862,250,511.01
+2024-06-10,Flash Sale Weekend,4615,93,256.14
+2024-06-11,Flash Sale Weekend,3134,86,155.88
+2024-06-12,Flash Sale Weekend,9351,311,501.34
+2024-06-13,Flash Sale Weekend,13082,181,461.92
+2024-06-14,Flash Sale Weekend,6596,151,367.93
+2024-06-15,Flash Sale Weekend,7868,310,941.79
+2024-06-16,Flash Sale Weekend,9316,121,246.73
+2024-06-17,Flash Sale Weekend,9149,450,1091.35
+2024-06-18,Flash Sale Weekend,17894,1030,2624.01
+2024-06-19,Flash Sale Weekend,19869,855,1186.43
+2024-06-20,Flash Sale Weekend,5524,128,173.79
+2024-06-21,Flash Sale Weekend,15422,389,778.25
+2024-06-22,Flash Sale Weekend,11326,600,1797.54
+2024-06-23,Flash Sale Weekend,4602,214,441.28
+2024-06-24,Flash Sale Weekend,18787,607,638.61
+2024-05-24,Referral Program Boost,3786,209,637.45
+2024-05-25,Referral Program Boost,17803,656,1115.13
+2024-05-26,Referral Program Boost,1978,88,259.94
+2024-05-27,Referral Program Boost,8036,313,158.88
+2024-05-28,Referral Program Boost,5642,128,287.61
+2024-05-29,Referral Program Boost,17512,226,337.79
+2024-05-30,Referral Program Boost,12327,474,1490.9
+2024-05-31,Referral Program Boost,17630,480,1385.1
+2024-06-01,Referral Program Boost,12764,359,562.96
+2024-06-02,Referral Program Boost,7702,244,161.59
+2024-06-03,Referral Program Boost,3115,35,114.31
+2024-06-04,Referral Program Boost,19526,952,2322.67
+2024-06-05,Referral Program Boost,14988,689,1283.93
+2024-06-06,Referral Program Boost,14613,457,821.15
+2024-06-07,Referral Program Boost,1131,55,176.07
+2024-06-08,Referral Program Boost,17102,450,1418.76
+2024-06-09,Referral Program Boost,4923,245,709.32
+2024-06-10,Referral Program Boost,2339,49,120.54
+2024-06-11,Referral Program Boost,15807,693,2186.3
+2024-06-12,Referral Program Boost,736,34,114.82
+2024-06-13,Referral Program Boost,11680,482,291.33
+2024-06-14,Referral Program Boost,896,13,20.23
+2024-06-15,Referral Program Boost,4764,54,55.18
+2024-06-16,Referral Program Boost,2782,146,484.45
+2024-06-17,Referral Program Boost,11501,562,552.45
+2024-06-18,Referral Program Boost,16343,693,2312.12
+2024-06-19,Referral Program Boost,7018,227,748.0
+2024-06-20,Referral Program Boost,6908,387,993.34
+2024-06-21,Referral Program Boost,7292,145,335.95
+2024-06-22,Referral Program Boost,7310,171,260.29
+2024-06-23,Referral Program Boost,5684,268,393.89
+2024-06-24,Referral Program Boost,8002,326,966.18
+2024-06-25,Referral Program Boost,6991,318,950.21
+2024-06-26,Referral Program Boost,19209,421,415.13
+2024-06-27,Referral Program Boost,15019,402,355.68
+2024-06-28,Referral Program Boost,6597,311,429.1
+2024-06-29,Referral Program Boost,18440,476,710.63
+2024-06-30,Referral Program Boost,8227,274,823.98
+2024-07-01,Referral Program Boost,5571,55,143.27
+2024-07-02,Referral Program Boost,4112,110,326.22
+2024-07-03,Referral Program Boost,2064,37,84.67
+2024-07-04,Referral Program Boost,17752,1003,693.93
+2024-07-05,Referral Program Boost,16394,789,1613.34
+2024-07-06,Referral Program Boost,7795,159,306.67
+2024-07-07,Referral Program Boost,17212,933,524.23
+2024-07-08,Referral Program Boost,15243,384,658.46
+2024-07-09,Referral Program Boost,19676,706,1749.59

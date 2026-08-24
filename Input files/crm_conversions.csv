@@ -1,0 +1,380 @@
+conversion_id,campaign_name_entered,conversion_date,customer_email,revenue
+CV00375,organic,2024-10-06,mackmichael@example.org,84.73
+CV00199,Loyalty Push,2024-09-09,zgarcia@example.com,335.67
+CV00166,Loyalty Rewards,2024-01-02,rick94@example.net,138.34
+CV00317,Referral Boost Program,2024-02-11,khanbrittany@example.net,246.19
+CV00172,Loyalty Rewards,2024-03-21,vpatterson@example.org,366.96
+CV00017,Summer Sale 2024,2024-11-30,brian44@example.com,622.57
+CV00241,Holiday Gift Guide,2024-08-10,bill95@example.org,56.03
+CV00220,Aurora,2024-03-09,maria74@example.com,540.87
+CV00142,Spring Sale,2024-07-12,nwhitehead@example.net,744.45
+CV00066,BTS Promo,2024-10-19,jamie38@example.org,69.79
+CV00251,Holiday Gift Guide,2024-05-01,hoffmanjohn@example.org,641.68
+CV00008,Summer Sale,2024-06-10,ghall@example.net,186.51
+CV00119,New Year Kickoff,2024-12-23,johnsonkayla@example.net,503.75
+CV00297,Referral Program,2024-02-03,jennifercalderon@example.net,207.58
+CV00361,walk-in,2024-02-08,mcclainrobert@example.com,388.0
+CV00269,Gift Guide,2024-01-03,jason45@example.net,417.61
+CV00037,Back to School,2024-01-20,davisamanda@example.org,269.93
+CV00175,Loyalty Rewards,2024-03-02,brentcrawford@example.org,439.4
+CV00218,Product Launch Aurora,2024-04-16,owoodard@example.net,46.6
+CV00349,Referral Boost Program,2024-01-17,christopher94@example.com,201.09
+CV00162,Loyalty Push,2024-05-02,jacobcruz@example.org,162.13
+CV00116,New Year Kickoff,2024-12-30,tina50@example.com,358.61
+CV00087,Black Friday Blast,2024-06-16,charles83@example.com,529.45
+CV00159,Loyalty Rewards,2024-11-02,rogersmichael@example.com,238.82
+CV00362,direct,2024-09-06,nthornton@example.org,278.33
+CV00363,direct,2024-05-06,dominguezkeith@example.net,506.9
+CV00296,Referral Program,2024-01-18,morrisjeremy@example.net,251.56
+CV00058,BTS Promo,2024-04-15,sara10@example.net,520.64
+CV00203,Loyalty Push,2024-03-16,tammy41@example.net,554.92
+CV00257,Gift Guide,2024-04-28,dsantiago@example.net,741.26
+CV00088,BF Blast,2024-03-30,swilliams@example.com,409.22
+CV00041,BTS Promo,2024-10-25,abecker@example.com,781.37
+CV00054,Back to School,2024-05-15,jason96@example.net,153.65
+CV00336,Referral Program,2024-06-05,davidhughes@example.net,682.83
+CV00125,Spring Clearance,2024-07-19,kaitlyn62@example.com,222.53
+CV00163,Loyalty Push,2024-02-29,robert10@example.com,205.46
+CV00274,Gift Guide,2024-10-08,lisahall@example.org,676.59
+CV00070,BTS Promo,2024-08-08,sarah64@example.org,390.26
+CV00347,Referral Program,2024-05-01,uellis@example.net,613.32
+CV00076,Back to School,2024-11-21,joseph60@example.com,200.4
+CV00148,Spring Sale,2024-06-21,nelsonangela@example.org,317.62
+CV00105,NY Kickoff,2024-01-13,joshualopez@example.com,80.52
+CV00177,Loyalty Rewards,2024-08-02,pammartinez@example.org,753.81
+CV00307,Referral Program,2024-03-09,owenskevin@example.com,729.41
+CV00103,NY Kickoff,2024-06-05,crystal42@example.com,166.04
+CV00238,Aurora Launch,2024-10-05,ashley51@example.net,71.5
+CV00346,Referral Program,2024-07-20,jesseelliott@example.net,220.89
+CV00243,Holiday Gift Guide,2024-05-10,timothy40@example.org,359.78
+CV00186,Loyalty Rewards,2024-06-15,vboyd@example.org,210.47
+CV00289,Flash Sale,2024-11-12,heathbrittany@example.org,222.42
+CV00286,Flash Sale Weekend,2024-03-19,doylesusan@example.net,168.68
+CV00022,summer sale,2024-03-22,brian35@example.com,147.41
+CV00141,Spring Clearance,2024-10-08,xarroyo@example.net,439.43
+CV00100,NY Kickoff,2024-06-15,woodcharlene@example.com,470.95
+CV00078,Back to School,2024-02-15,jonathan19@example.com,286.71
+CV00323,Referral Boost Program,2024-09-19,christina83@example.org,757.32
+CV00364,walk-in,2024-04-18,james66@example.com,275.4
+CV00253,Gift Guide,2024-01-17,ericfritz@example.net,285.23
+CV00357,N/A,2024-06-22,normanjon@example.com,507.61
+CV00104,NY Kickoff,2024-01-25,thompsonashley@example.org,263.81
+CV00263,Gift Guide,2024-07-05,tpowell@example.com,402.37
+CV00140,Spring Sale,2024-11-10,saraking@example.com,274.34
+CV00025,Summer Sale,2024-06-26,hschmidt@example.com,732.83
+CV00267,Holiday Gift Guide,2024-01-12,felicia94@example.net,646.21
+CV00171,Loyalty Rewards,2024-01-15,rhondajenkins@example.net,244.94
+CV00231,Product Launch Aurora,2024-10-31,ianware@example.com,329.61
+CV00081,Black Friday Blast,2024-09-24,michael81@example.net,349.97
+CV00149,Spring Sale,2024-09-23,odavis@example.org,734.12
+CV00179,Loyalty Rewards,2024-10-07,timothyvasquez@example.org,184.4
+CV00153,Spring Clearance,2024-05-14,madison85@example.net,120.08
+CV00044,Back to School,2024-04-15,sandersandrea@example.com,421.82
+CV00036,Back to School Promo,2024-08-07,charles26@example.org,710.96
+CV00210,Product Launch Aurora,2024-07-14,tanner90@example.org,529.48
+CV00264,Gift Guide,2024-07-08,hahnelaine@example.com,262.6
+CV00273,Holiday Gift Guide,2024-03-07,pingram@example.org,141.73
+CV00259,Holiday Gift Guide,2024-07-12,erin52@example.com,111.76
+CV00082,Black Friday Blast,2024-04-17,malonesabrina@example.com,259.83
+CV00055,Back to School Promo,2024-09-13,mathewsdonald@example.com,302.79
+CV00026,summer sale,2024-01-16,debbie33@example.org,637.28
+CV00011,summer sale,2024-01-27,petersenrobert@example.com,267.38
+CV00084,Black Friday Blast,2024-11-15,marcus96@example.com,696.21
+CV00145,Spring Clearance,2024-08-02,haleystevens@example.org,526.46
+CV00014,Summer Sale 2024,2024-08-06,kevinanderson@example.net,484.66
+CV00169,Loyalty Push,2024-06-06,cynthiamonroe@example.net,423.5
+CV00002,Summer Sale,2024-02-03,maureen24@example.org,767.39
+CV00260,Gift Guide,2024-12-11,christopher42@example.org,372.46
+CV00069,BTS Promo,2024-04-23,adrianreeves@example.com,194.98
+CV00295,Referral Boost Program,2024-06-02,josephpeterson@example.org,605.24
+CV00197,Loyalty Rewards,2024-04-08,walkermisty@example.com,425.57
+CV00030,Back to School Promo,2024-09-04,dawngutierrez@example.org,424.2
+CV00040,BTS Promo,2024-07-24,wagnerchristopher@example.com,253.89
+CV00252,Holiday Gift Guide,2024-02-14,megan25@example.net,94.04
+CV00294,Referral Program,2024-08-19,kevinbrewer@example.net,410.99
+CV00240,Gift Guide,2024-09-01,edwardsphillip@example.com,77.79
+CV00330,Referral Program,2024-02-07,oevans@example.com,166.45
+CV00339,Referral Boost Program,2024-12-15,uchapman@example.com,494.8
+CV00131,Spring Sale,2024-04-14,james50@example.com,740.87
+CV00215,Product Launch Aurora,2024-06-22,nbailey@example.com,157.07
+CV00010,Summer Sale,2024-09-18,vjackson@example.org,647.75
+CV00230,Aurora Launch,2024-02-20,ufernandez@example.com,44.43
+CV00356,direct,2024-03-28,patrickflynn@example.com,474.55
+CV00225,Aurora,2024-02-04,derrickfrederick@example.net,152.45
+CV00118,New Year Kickoff,2024-08-22,thomasjenkins@example.com,756.82
+CV00016,Summer Sale,2024-08-11,rossdiane@example.org,131.11
+CV00139,Spring Sale,2024-07-09,maldonadojennifer@example.org,601.38
+CV00211,Aurora,2024-02-02,carpenternancy@example.org,537.22
+CV00206,Loyalty Rewards,2024-11-17,taylorjames@example.org,679.28
+CV00324,Referral Boost Program,2024-07-09,michael16@example.org,201.31
+CV00365,organic,2024-12-18,kellywerner@example.org,601.53
+CV00059,BTS Promo,2024-03-17,donna74@example.com,251.61
+CV00359,unknown,2024-10-09,christyramsey@example.net,557.55
+CV00108,NY Kickoff,2024-02-15,thompsonjeff@example.net,131.54
+CV00376,referal - freind,2024-10-04,sarah79@example.net,125.22
+CV00152,Spring Clearance,2024-04-30,sanderschad@example.org,679.71
+CV00213,Aurora,2024-06-18,cooperkevin@example.net,30.31
+CV00046,BTS Promo,2024-10-04,walterssusan@example.com,267.75
+CV00299,Referral Boost Program,2024-12-05,carolyn82@example.net,299.25
+CV00205,Loyalty Rewards,2024-05-26,michelle07@example.com,208.92
+CV00113,New Year Kickoff,2024-04-08,elliottsabrina@example.com,48.7
+CV00029,Summer Sale,2024-02-03,larsonjonathan@example.com,397.24
+CV00332,Referral Boost Program,2024-06-04,watkinsjeffrey@example.org,715.24
+CV00255,Gift Guide,2024-02-09,kayla89@example.com,208.71
+CV00182,Loyalty Push,2024-06-10,meyerscheyenne@example.net,481.38
+CV00133,Spring Clearance,2024-03-19,barrangela@example.com,540.06
+CV00216,Aurora,2024-02-01,kellialexander@example.com,448.06
+CV00331,Referral Boost Program,2024-07-25,qshaw@example.com,612.55
+CV00306,Referral Boost Program,2024-07-05,lisaclark@example.com,525.16
+CV00134,Spring Clearance,2024-02-09,randymoran@example.com,486.11
+CV00200,Loyalty Rewards,2024-10-19,cmatthews@example.net,316.63
+CV00314,Referral Boost Program,2024-06-20,fbrewer@example.net,135.94
+CV00060,Back to School,2024-06-28,janet15@example.org,789.28
+CV00291,Flash Sale,2024-09-02,stephaniewong@example.org,97.19
+CV00283,Flash Sale,2024-11-20,buchananrachel@example.net,51.65
+CV00304,Referral Program,2024-03-02,jacksoncaitlyn@example.net,721.92
+CV00064,BTS Promo,2024-05-04,holmeselizabeth@example.org,725.26
+CV00308,Referral Program,2024-01-30,donnashort@example.com,685.71
+CV00033,BTS Promo,2024-01-08,xaustin@example.org,752.8
+CV00052,BTS Promo,2024-07-25,elliottlori@example.net,598.21
+CV00032,BTS Promo,2024-10-20,dawsonjeffrey@example.net,468.33
+CV00298,Referral Program,2024-10-26,danielbrown@example.com,476.45
+CV00107,New Year Kickoff,2024-09-18,michelleburton@example.net,420.89
+CV00124,Spring Sale,2024-09-02,yrodriguez@example.net,525.0
+CV00219,Aurora,2024-06-12,grimeslauren@example.net,643.25
+CV00275,Holiday Gift Guide,2024-03-28,diazjonathan@example.net,324.09
+CV00272,Holiday Gift Guide,2024-12-14,craig88@example.net,241.25
+CV00337,Referral Program,2024-02-22,rortega@example.net,187.26
+CV00077,Back to School,2024-06-22,gwilson@example.net,110.47
+CV00236,Aurora,2024-10-18,travis75@example.com,700.28
+CV00180,Loyalty Rewards,2024-02-18,jessemorales@example.com,403.44
+CV00309,Referral Program,2024-10-14,ortizashley@example.org,699.84
+CV00015,Summer Sale,2024-05-05,lpetersen@example.net,205.58
+CV00165,Loyalty Rewards,2024-08-25,mharrell@example.org,514.16
+CV00318,Referral Boost Program,2024-09-30,ahenry@example.com,556.07
+CV00374,walk-in,2024-03-27,kayla18@example.com,480.7
+CV00258,Gift Guide,2024-05-09,garciafrederick@example.net,174.55
+CV00039,Back to School Promo,2024-10-31,fisherjessica@example.net,671.25
+CV00007,Summer Sale,2024-01-17,hudsonmary@example.org,341.57
+CV00128,Spring Clearance,2024-05-02,kurt19@example.org,499.01
+CV00193,Loyalty Rewards,2024-12-19,turneralice@example.org,551.79
+CV00156,Loyalty Push,2024-07-31,cshannon@example.net,138.74
+CV00071,Back to School Promo,2024-03-10,justinbernard@example.com,52.13
+CV00160,Loyalty Rewards,2024-05-21,vasquezjoseph@example.org,46.02
+CV00278,Holiday Gift Guide,2024-10-08,wbrooks@example.org,647.34
+CV00217,Product Launch Aurora,2024-09-04,zwilliams@example.org,65.04
+CV00161,Loyalty Push,2024-02-09,hbrown@example.org,671.38
+CV00350,Referral Program,2024-04-02,donaldpatel@example.net,373.25
+CV00247,Gift Guide,2024-06-29,gibsonkathryn@example.net,369.58
+CV00047,Back to School Promo,2024-11-15,younggerald@example.net,360.11
+CV00086,Black Friday Blast,2024-06-19,mbriggs@example.net,191.77
+CV00249,Holiday Gift Guide,2024-06-22,daisy97@example.com,271.69
+CV00378,walk-in,2024-05-24,danielgreene@example.org,769.46
+CV00073,BTS Promo,2024-02-10,ymeyer@example.com,400.92
+CV00204,Loyalty Push,2024-10-20,krivera@example.org,323.64
+CV00075,BTS Promo,2024-08-21,yburton@example.net,727.57
+CV00063,BTS Promo,2024-06-03,zrodriguez@example.com,529.58
+CV00334,Referral Program,2024-02-24,isabellagilmore@example.net,753.38
+CV00110,NY Kickoff,2024-02-15,hallscott@example.org,748.02
+CV00031,Back to School,2024-07-26,ngonzalez@example.net,323.32
+CV00222,Product Launch Aurora,2024-02-29,allenbrian@example.org,325.53
+CV00209,Product Launch Aurora,2024-01-19,dpalmer@example.net,84.06
+CV00144,Spring Clearance,2024-09-11,ericrios@example.net,746.29
+CV00127,Spring Sale,2024-05-04,cynthiamartin@example.com,719.13
+CV00020,summer sale,2024-07-19,david36@example.net,789.08
+CV00233,Product Launch Aurora,2024-11-16,deborah67@example.net,443.29
+CV00345,Referral Boost Program,2024-04-23,ssparks@example.com,205.21
+CV00321,Referral Program,2024-12-11,deborah52@example.com,539.63
+CV00130,Spring Sale,2024-07-29,michaeldecker@example.com,627.3
+CV00097,Black Friday Blast,2024-09-05,gonzalezdana@example.net,537.64
+CV00106,NY Kickoff,2024-09-08,danieljohnson@example.net,103.33
+CV00001,Summer Sale 2024,2024-07-27,travisjames@example.net,634.38
+CV00316,Referral Boost Program,2024-10-22,willissarah@example.org,301.18
+CV00300,Referral Boost Program,2024-08-27,jcarter@example.com,665.61
+CV00288,Flash Sale Weekend,2024-12-22,kochsara@example.org,754.57
+CV00212,Product Launch Aurora,2024-07-02,kristinawalker@example.org,589.64
+CV00035,BTS Promo,2024-09-12,simmonsronald@example.com,551.79
+CV00319,Referral Boost Program,2024-03-15,michaelwest@example.com,366.56
+CV00310,Referral Boost Program,2024-01-05,ghill@example.org,249.78
+CV00226,Aurora,2024-07-08,sheilanelson@example.org,623.33
+CV00074,Back to School Promo,2024-01-14,karengriffin@example.org,545.81
+CV00012,summer sale,2024-06-14,christine37@example.org,680.53
+CV00170,Loyalty Rewards,2024-05-21,ryan92@example.org,617.49
+CV00320,Referral Program,2024-01-23,sarahmejia@example.org,417.71
+CV00265,Holiday Gift Guide,2024-07-03,debbiewalker@example.com,299.83
+CV00358,direct,2024-11-09,logan06@example.net,44.16
+CV00101,NY Kickoff,2024-12-03,thompsonsean@example.com,610.37
+CV00301,Referral Program,2024-06-12,jennifer37@example.net,246.18
+CV00085,Black Friday Blast,2024-02-24,linda69@example.com,562.95
+CV00228,Product Launch Aurora,2024-10-11,bennettheidi@example.org,617.29
+CV00132,Spring Sale,2024-03-03,rosalessharon@example.com,348.5
+CV00279,Flash Sale Weekend,2024-11-09,ryanbrown@example.net,497.1
+CV00328,Referral Boost Program,2024-07-13,vfaulkner@example.com,378.2
+CV00102,NY Kickoff,2024-03-07,christopherbennett@example.net,462.22
+CV00080,Black Friday,2024-10-17,kenneth53@example.org,166.62
+CV00244,Holiday Gift Guide,2024-06-10,erik44@example.com,374.4
+CV00009,summer sale,2024-10-02,wlee@example.org,89.54
+CV00325,Referral Program,2024-01-29,hrobinson@example.com,492.17
+CV00246,Holiday Gift Guide,2024-02-25,jody09@example.org,512.61
+CV00239,Gift Guide,2024-01-20,wallacekyle@example.net,329.85
+CV00196,Loyalty Rewards,2024-01-25,stanleynewman@example.org,187.36
+CV00223,Aurora Launch,2024-06-27,nhill@example.net,609.21
+CV00214,Aurora,2024-03-31,garrett87@example.com,171.52
+CV00326,Referral Program,2024-11-05,wallcatherine@example.com,326.26
+CV00174,Loyalty Push,2024-04-02,wilkinsonjason@example.net,759.87
+CV00202,Loyalty Push,2024-11-15,erin25@example.org,283.6
+CV00207,Loyalty Push,2024-01-09,megan20@example.com,360.47
+CV00137,Spring Clearance,2024-03-14,andrea88@example.org,571.43
+CV00092,BF Blast,2024-07-18,april82@example.net,242.31
+CV00091,BF Blast,2024-07-07,jacksonheather@example.org,379.32
+CV00109,NY Kickoff,2024-12-29,thomas71@example.com,356.86
+CV00234,Aurora Launch,2024-05-13,malvarado@example.com,415.28
+CV00290,Flash Sale Weekend,2024-01-15,sheila59@example.org,572.04
+CV00302,Referral Program,2024-02-18,mmoore@example.net,170.74
+CV00285,Flash Sale Weekend,2024-04-18,robinsondenise@example.com,50.71
+CV00042,Back to School,2024-07-22,jorgetaylor@example.net,575.98
+CV00194,Loyalty Push,2024-11-23,peggypadilla@example.net,285.16
+CV00136,Spring Clearance,2024-04-25,blakethomas@example.org,136.04
+CV00027,Summer Sale,2024-09-17,erinlyons@example.com,78.43
+CV00005,Summer Sale,2024-12-25,xmayo@example.net,405.92
+CV00348,Referral Boost Program,2024-06-21,elaineadams@example.com,530.23
+CV00311,Referral Program,2024-09-09,crios@example.com,225.11
+CV00023,Summer Sale 2024,2024-06-27,janet80@example.org,757.96
+CV00120,New Year Kickoff,2024-10-17,jerome73@example.org,94.78
+CV00261,Holiday Gift Guide,2024-02-13,potterjennifer@example.com,772.89
+CV00322,Referral Program,2024-10-09,david89@example.org,417.29
+CV00224,Product Launch Aurora,2024-12-27,hsmith@example.org,121.7
+CV00049,BTS Promo,2024-02-27,anthony61@example.net,304.54
+CV00245,Gift Guide,2024-12-06,keithbrown@example.com,522.93
+CV00146,Spring Clearance,2024-03-07,candace32@example.net,549.06
+CV00184,Loyalty Rewards,2024-04-14,yarmstrong@example.com,504.26
+CV00114,New Year Kickoff,2024-06-28,jennaharris@example.com,683.76
+CV00158,Loyalty Rewards,2024-01-09,iharrington@example.org,225.94
+CV00256,Holiday Gift Guide,2024-02-28,brian00@example.org,370.29
+CV00028,Summer Sale,2024-10-11,dsmith@example.net,155.02
+CV00191,Loyalty Rewards,2024-03-20,maxwelllogan@example.com,376.51
+CV00050,BTS Promo,2024-07-24,lindasanders@example.com,472.48
+CV00268,Gift Guide,2024-12-26,josephmitchell@example.com,635.96
+CV00287,Flash Sale Weekend,2024-10-20,courtney03@example.org,93.55
+CV00338,Referral Boost Program,2024-03-10,johnsondavid@example.net,705.92
+CV00250,Holiday Gift Guide,2024-02-15,epage@example.org,152.71
+CV00221,Aurora,2024-04-29,psullivan@example.com,697.47
+CV00293,Flash Sale Weekend,2024-02-17,samanthabarker@example.org,597.36
+CV00195,Loyalty Rewards,2024-12-06,zwilliams@example.net,118.16
+CV00090,Black Friday Blast,2024-06-04,davidgonzalez@example.org,605.76
+CV00173,Loyalty Push,2024-12-17,drobertson@example.com,215.72
+CV00154,Spring Clearance,2024-02-28,ngarrison@example.org,106.42
+CV00242,Holiday Gift Guide,2024-10-14,james54@example.net,715.69
+CV00053,BTS Promo,2024-05-12,kennedytina@example.net,499.78
+CV00352,Referral Program,2024-06-23,mejiasandra@example.org,519.42
+CV00094,Black Friday Blast,2024-05-04,cory92@example.org,290.0
+CV00188,Loyalty Rewards,2024-09-09,kathy17@example.net,687.08
+CV00254,Gift Guide,2024-07-21,fmcbride@example.net,757.2
+CV00117,New Year Kickoff,2024-10-23,kevinshaffer@example.com,137.94
+CV00229,Aurora Launch,2024-08-18,cindy71@example.net,698.36
+CV00354,Referral Boost Program,2024-04-03,rgallegos@example.net,571.89
+CV00061,Back to School,2024-08-05,griffithcole@example.com,133.58
+CV00305,Referral Boost Program,2024-12-19,mcleantodd@example.com,89.3
+CV00003,Summer Sale 2024,2024-07-18,ruth78@example.com,651.19
+CV00281,Flash Sale Weekend,2024-09-20,scottcameron@example.com,73.18
+CV00237,Aurora,2024-06-18,princesally@example.org,767.4
+CV00143,Spring Sale,2024-12-10,pcalhoun@example.net,249.49
+CV00034,BTS Promo,2024-10-29,cjohnson@example.com,214.67
+CV00227,Aurora Launch,2024-12-12,christine58@example.org,403.82
+CV00276,Gift Guide,2024-10-22,tina05@example.org,414.73
+CV00121,New Year Kickoff,2024-11-09,ryan65@example.net,102.03
+CV00341,Referral Program,2024-05-21,uray@example.org,211.53
+CV00048,Back to School Promo,2024-09-17,olsonjennifer@example.com,622.42
+CV00192,Loyalty Rewards,2024-11-03,grubio@example.net,299.32
+CV00051,Back to School,2024-05-12,epaul@example.org,307.27
+CV00099,BF Blast,2024-04-08,joshua64@example.org,680.87
+CV00189,Loyalty Rewards,2024-08-12,benjaminwebb@example.org,271.61
+CV00004,summer sale,2024-01-16,ugordon@example.net,707.04
+CV00369,walk-in,2024-04-15,todd58@example.org,485.33
+CV00083,BF Blast,2024-02-09,johnclayton@example.net,301.09
+CV00373,walk-in,2024-12-30,riverajason@example.net,122.38
+CV00371,direct,2024-06-16,martinanthony@example.net,498.64
+CV00122,New Year Kickoff,2024-11-25,millertristan@example.com,307.79
+CV00095,Black Friday,2024-04-02,mark53@example.net,480.14
+CV00043,Back to School Promo,2024-07-20,amber84@example.net,587.73
+CV00183,Loyalty Rewards,2024-11-04,sara71@example.net,98.32
+CV00270,Holiday Gift Guide,2024-09-30,jessicameyer@example.net,108.24
+CV00366,organic,2024-03-27,jefferymcclure@example.org,632.71
+CV00057,Back to School Promo,2024-10-03,theresaramsey@example.net,229.52
+CV00353,Referral Boost Program,2024-04-15,jo21@example.org,141.2
+CV00123,Spring Clearance,2024-03-28,ycooper@example.org,621.14
+CV00178,Loyalty Rewards,2024-12-23,ojones@example.net,327.3
+CV00038,Back to School,2024-01-05,judy50@example.net,70.93
+CV00315,Referral Program,2024-07-04,rosslarry@example.org,270.68
+CV00019,summer sale,2024-07-13,etucker@example.com,126.73
+CV00181,Loyalty Rewards,2024-01-26,william95@example.net,42.66
+CV00327,Referral Program,2024-11-28,jeffreyduncan@example.org,242.06
+CV00280,Flash Sale,2024-02-23,johnsonsandra@example.net,426.13
+CV00135,Spring Sale,2024-01-11,blacklisa@example.com,244.4
+CV00068,BTS Promo,2024-05-04,tranmichael@example.com,462.46
+CV00176,Loyalty Push,2024-04-10,dmcdowell@example.com,160.2
+CV00271,Holiday Gift Guide,2024-11-21,nmccarthy@example.com,522.36
+CV00335,Referral Boost Program,2024-04-15,chadarias@example.net,663.44
+CV00248,Holiday Gift Guide,2024-09-06,xlopez@example.net,681.59
+CV00115,New Year Kickoff,2024-11-30,masoncarolyn@example.org,303.75
+CV00112,New Year Kickoff,2024-02-25,floydtammy@example.org,158.97
+CV00266,Holiday Gift Guide,2024-09-05,brian83@example.com,292.8
+CV00201,Loyalty Push,2024-08-28,tjones@example.org,389.9
+CV00155,Spring Sale,2024-06-19,jamieknox@example.com,635.87
+CV00021,Summer Sale 2024,2024-07-11,lkennedy@example.net,523.25
+CV00277,Holiday Gift Guide,2024-06-08,ashley85@example.net,514.24
+CV00377,walk-in,2024-08-20,victor71@example.com,195.78
+CV00344,Referral Program,2024-11-04,johnnysantos@example.net,771.93
+CV00045,BTS Promo,2024-05-09,holmescarolyn@example.net,428.0
+CV00313,Referral Boost Program,2024-07-23,collin88@example.org,484.1
+CV00126,Spring Sale,2024-02-16,melissagomez@example.net,777.64
+CV00235,Aurora Launch,2024-07-17,connorsmith@example.com,600.34
+CV00232,Aurora Launch,2024-05-05,leegloria@example.org,753.79
+CV00262,Holiday Gift Guide,2024-11-24,zlee@example.com,451.1
+CV00164,Loyalty Rewards,2024-02-28,james83@example.org,451.21
+CV00056,Back to School Promo,2024-11-02,egross@example.org,525.73
+CV00379,direct,2024-03-09,zcrawford@example.com,212.09
+CV00098,Black Friday,2024-05-10,daniellejenkins@example.com,32.05
+CV00147,Spring Sale,2024-08-15,hcarter@example.net,234.71
+CV00312,Referral Boost Program,2024-12-01,vtorres@example.com,343.25
+CV00013,Summer Sale,2024-09-14,jeffreyspencer@example.com,246.94
+CV00129,Spring Sale,2024-05-17,brianford@example.org,252.88
+CV00187,Loyalty Rewards,2024-04-30,kevinsandoval@example.org,195.9
+CV00065,Back to School Promo,2024-05-02,aaron97@example.org,394.83
+CV00062,BTS Promo,2024-05-27,westalexandra@example.org,40.86
+CV00333,Referral Boost Program,2024-11-29,ericasmith@example.org,749.36
+CV00340,Referral Boost Program,2024-11-01,fcalderon@example.com,394.92
+CV00351,Referral Boost Program,2024-03-12,stephen72@example.com,488.38
+CV00372,organic,2024-05-27,dwhite@example.org,287.51
+CV00190,Loyalty Push,2024-01-10,williamellis@example.net,634.26
+CV00111,NY Kickoff,2024-01-09,kbell@example.org,597.66
+CV00367,referal - freind,2024-05-23,jamesbradley@example.org,605.26
+CV00329,Referral Program,2024-02-01,rdurham@example.net,487.24
+CV00006,summer sale,2024-01-15,chenblake@example.org,225.18
+CV00018,Summer Sale,2024-01-27,david96@example.com,380.04
+CV00138,Spring Clearance,2024-09-05,mario09@example.net,503.75
+CV00185,Loyalty Push,2024-05-15,sherryholmes@example.com,115.3
+CV00208,Aurora Launch,2024-01-07,christinerusso@example.org,632.27
+CV00370,unknown,2024-05-31,dgriffin@example.net,135.57
+CV00067,Back to School Promo,2024-05-15,thomas85@example.net,773.79
+CV00151,Spring Sale,2024-12-29,kingscott@example.net,268.84
+CV00282,Flash Sale Weekend,2024-08-26,bsimmons@example.org,416.38
+CV00284,Flash Sale Weekend,2024-06-17,nathan02@example.org,195.46
+CV00072,Back to School Promo,2024-10-17,douglas40@example.org,552.82
+CV00342,Referral Boost Program,2024-02-10,breed@example.net,142.09
+CV00198,Loyalty Rewards,2024-10-07,jenniferbrooks@example.net,342.61
+CV00355,unknown,2024-12-25,robertdaniels@example.org,133.5
+CV00157,Loyalty Push,2024-11-10,jonathan11@example.net,441.47
+CV00343,Referral Boost Program,2024-05-07,rosstimothy@example.net,179.33
+CV00368,unknown,2024-12-06,arnoldedward@example.com,181.07
+CV00089,Black Friday,2024-04-01,dwatkins@example.net,75.67
+CV00168,Loyalty Push,2024-10-04,ilee@example.com,640.53
+CV00292,Flash Sale Weekend,2024-01-14,shanehuynh@example.net,402.88
+CV00093,Black Friday Blast,2024-08-10,donna36@example.com,697.44
+CV00096,BF Blast,2024-03-17,jessica36@example.net,267.71
+CV00150,Spring Clearance,2024-08-06,jason35@example.org,159.99
+CV00079,Back to School Promo,2024-11-03,jennifercline@example.org,200.18
+CV00303,Referral Program,2024-04-09,prodriguez@example.org,126.42
+CV00360,N/A,2024-07-11,millercrystal@example.com,220.35
+CV00167,Loyalty Push,2024-02-03,wolfjeremy@example.com,618.55
+CV00024,summer sale,2024-09-24,jennifer37@example.com,271.75

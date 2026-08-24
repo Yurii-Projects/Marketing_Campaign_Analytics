@@ -1,0 +1,338 @@
+report_date,campaign,impressions_count,link_clicks,amount_spent_usd
+02/15/2024,Summer Sale '24,13802,518,816.95
+02/16/2024,Summer Sale '24,8478,262,293.19
+02/17/2024,Summer Sale '24,16795,684,1923.7
+02/18/2024,Summer Sale '24,14899,295,352.27
+02/19/2024,Summer Sale '24,11203,318,207.32
+02/20/2024,Summer Sale '24,17690,666,381.27
+02/21/2024,Summer Sale '24,13396,470,288.47
+02/22/2024,Summer Sale '24,16945,162,304.9
+02/23/2024,Summer Sale '24,17805,270,629.07
+02/24/2024,Summer Sale '24,16955,796,372.58
+02/25/2024,Summer Sale '24,2890,84,186.0
+02/26/2024,Summer Sale '24,13853,396,1038.63
+02/27/2024,Summer Sale '24,12056,406,412.89
+02/28/2024,Summer Sale '24,15097,526,793.92
+02/29/2024,Summer Sale '24,15137,612,513.52
+03/01/2024,Summer Sale '24,11958,420,527.21
+03/02/2024,Summer Sale '24,15532,297,604.09
+03/03/2024,Summer Sale '24,5427,123,268.27
+03/04/2024,Summer Sale '24,6682,317,350.38
+03/05/2024,Summer Sale '24,11221,145,137.71
+03/06/2024,Summer Sale '24,7480,347,1037.17
+03/07/2024,Summer Sale '24,16199,523,1565.82
+03/08/2024,Summer Sale '24,2388,102,201.5
+03/09/2024,Summer Sale '24,12722,413,402.12
+03/10/2024,Summer Sale '24,3609,48,125.98
+03/11/2024,Summer Sale '24,3671,80,208.35
+03/12/2024,Summer Sale '24,16647,771,869.72
+03/13/2024,Summer Sale '24,16174,332,331.33
+03/14/2024,Summer Sale '24,14032,407,439.2
+03/15/2024,Summer Sale '24,13534,526,1021.54
+03/16/2024,Summer Sale '24,7614,334,877.67
+03/17/2024,Summer Sale '24,928,45,125.96
+03/18/2024,Summer Sale '24,7528,281,755.76
+03/19/2024,Summer Sale '24,17886,568,545.36
+03/20/2024,Summer Sale '24,6383,84,118.1
+03/21/2024,Summer Sale '24,14124,507,567.31
+03/22/2024,Summer Sale '24,3164,28,19.95
+03/23/2024,Summer Sale '24,16758,548,682.32
+09/29/2024,Back To School Promo,14565,623,1043.42
+09/30/2024,Back To School Promo,14753,475,584.5
+10/01/2024,Back To School Promo,17645,424,409.07
+10/02/2024,Back To School Promo,3802,94,155.7
+10/03/2024,Back To School Promo,6244,116,242.44
+10/04/2024,Back To School Promo,15320,632,738.26
+10/05/2024,Back To School Promo,13071,517,1358.02
+10/06/2024,Back To School Promo,6065,107,199.76
+10/07/2024,Back To School Promo,15251,414,511.07
+10/08/2024,Back To School Promo,6818,244,266.65
+10/09/2024,Back To School Promo,9645,199,315.89
+10/10/2024,Back To School Promo,8948,218,476.76
+10/11/2024,Back To School Promo,5014,221,471.04
+10/12/2024,Back To School Promo,9760,266,419.44
+10/13/2024,Back To School Promo,6260,171,412.07
+10/14/2024,Back To School Promo,8152,163,267.07
+10/15/2024,Back To School Promo,5145,60,82.78
+10/16/2024,Back To School Promo,17891,649,1166.44
+10/17/2024,Back To School Promo,14102,435,467.07
+10/18/2024,Back To School Promo,8182,196,483.9
+10/19/2024,Back To School Promo,14281,678,1647.87
+10/20/2024,Back To School Promo,8713,230,322.48
+10/21/2024,Back To School Promo,11448,244,111.83
+10/22/2024,Back To School Promo,7784,265,604.99
+10/23/2024,Back To School Promo,1988,22,44.93
+10/24/2024,Back To School Promo,13068,137,166.92
+10/25/2024,Back To School Promo,2344,47,68.72
+10/26/2024,Back To School Promo,2410,81,166.45
+10/27/2024,Back To School Promo,9888,242,531.17
+10/28/2024,Back To School Promo,6903,207,297.2
+10/29/2024,Back To School Promo,13630,510,589.79
+10/30/2024,Back To School Promo,421,7,6.76
+10/31/2024,Back To School Promo,7773,133,282.3
+11/01/2024,Back To School Promo,1030,34,82.15
+11/02/2024,Back To School Promo,5305,204,515.88
+11/03/2024,Back To School Promo,10124,189,514.71
+11/04/2024,Back To School Promo,11419,344,304.2
+11/05/2024,Back To School Promo,15023,349,739.25
+11/06/2024,Back To School Promo,5727,206,146.95
+11/07/2024,Back To School Promo,12790,198,506.77
+11/08/2024,Back To School Promo,2183,35,44.11
+11/09/2024,Back To School Promo,7399,186,231.61
+11/10/2024,Back To School Promo,3657,134,244.73
+11/11/2024,Back To School Promo,15247,149,251.43
+11/12/2024,Back To School Promo,3417,111,312.65
+11/13/2024,Back To School Promo,15648,496,528.19
+11/14/2024,Back To School Promo,759,21,56.88
+09/09/2024,Black Friday Blast!!,7948,99,194.05
+09/10/2024,Black Friday Blast!!,4302,102,260.9
+09/11/2024,Black Friday Blast!!,13387,180,342.73
+09/12/2024,Black Friday Blast!!,8264,266,637.6
+09/13/2024,Black Friday Blast!!,8428,117,96.15
+09/14/2024,Black Friday Blast!!,17057,313,366.03
+09/15/2024,Black Friday Blast!!,4772,170,275.66
+09/16/2024,Black Friday Blast!!,12179,296,504.54
+09/17/2024,Black Friday Blast!!,8434,340,966.61
+09/18/2024,Black Friday Blast!!,4651,103,289.98
+09/19/2024,Black Friday Blast!!,3834,82,72.55
+09/20/2024,Black Friday Blast!!,12913,496,742.1
+09/21/2024,Black Friday Blast!!,13257,440,408.84
+09/22/2024,Black Friday Blast!!,14875,388,1058.35
+09/23/2024,Black Friday Blast!!,16075,781,417.99
+09/24/2024,Black Friday Blast!!,3697,156,283.22
+09/25/2024,Black Friday Blast!!,11499,571,1637.75
+09/26/2024,Black Friday Blast!!,8456,275,759.04
+09/27/2024,Black Friday Blast!!,13940,272,706.11
+07/16/2024,New Year Kickoff Campaign,2592,25,56.58
+07/17/2024,New Year Kickoff Campaign,7707,232,642.19
+07/18/2024,New Year Kickoff Campaign,13536,485,1409.43
+07/19/2024,New Year Kickoff Campaign,11433,499,1294.03
+07/20/2024,New Year Kickoff Campaign,13167,471,755.66
+07/21/2024,New Year Kickoff Campaign,2592,76,66.44
+07/22/2024,New Year Kickoff Campaign,5373,116,127.04
+07/23/2024,New Year Kickoff Campaign,6515,217,136.97
+07/24/2024,New Year Kickoff Campaign,17914,477,310.39
+07/25/2024,New Year Kickoff Campaign,1674,43,78.91
+07/26/2024,New Year Kickoff Campaign,16634,776,989.15
+07/27/2024,New Year Kickoff Campaign,10443,272,166.6
+07/28/2024,New Year Kickoff Campaign,16692,274,688.65
+07/29/2024,New Year Kickoff Campaign,11781,116,117.73
+07/30/2024,New Year Kickoff Campaign,4546,83,207.16
+07/31/2024,New Year Kickoff Campaign,13972,445,576.14
+08/01/2024,New Year Kickoff Campaign,3104,103,301.12
+02/07/2024,spring clearance,14260,677,882.21
+02/08/2024,spring clearance,16575,467,235.01
+02/09/2024,spring clearance,4284,150,356.91
+02/10/2024,spring clearance,10787,158,454.0
+02/11/2024,spring clearance,16474,582,1158.09
+02/12/2024,spring clearance,4250,146,272.88
+02/13/2024,spring clearance,1483,30,65.09
+02/14/2024,spring clearance,13072,335,294.69
+02/15/2024,spring clearance,6640,255,118.11
+02/16/2024,spring clearance,7605,373,334.52
+02/17/2024,spring clearance,680,24,12.76
+02/18/2024,spring clearance,9518,409,305.38
+02/19/2024,spring clearance,15760,252,603.7
+02/20/2024,spring clearance,4207,73,143.11
+02/21/2024,spring clearance,12277,548,525.85
+02/22/2024,spring clearance,12631,195,229.1
+02/23/2024,spring clearance,14547,680,761.72
+02/24/2024,spring clearance,1990,17,22.43
+02/25/2024,spring clearance,15659,155,405.92
+02/26/2024,spring clearance,12214,269,681.0
+02/27/2024,spring clearance,16737,616,1537.42
+02/28/2024,spring clearance,15620,354,508.32
+02/29/2024,spring clearance,4991,52,90.4
+03/01/2024,spring clearance,3347,120,85.94
+03/02/2024,spring clearance,6412,122,95.58
+03/03/2024,spring clearance,14882,241,322.64
+03/04/2024,spring clearance,2849,86,147.93
+03/05/2024,spring clearance,11350,220,615.16
+03/06/2024,spring clearance,768,17,37.04
+03/07/2024,spring clearance,2481,74,64.82
+03/08/2024,spring clearance,7774,307,410.37
+03/09/2024,spring clearance,16126,737,1196.53
+03/10/2024,spring clearance,3032,87,94.4
+03/11/2024,spring clearance,5047,59,39.37
+03/12/2024,spring clearance,7309,72,165.9
+03/13/2024,spring clearance,15236,668,1060.9
+03/14/2024,spring clearance,13298,354,472.22
+03/15/2024,spring clearance,3849,141,400.46
+03/16/2024,spring clearance,8219,297,718.48
+03/17/2024,spring clearance,5781,250,605.01
+03/18/2024,spring clearance,17279,260,599.71
+03/19/2024,spring clearance,1301,26,24.73
+03/20/2024,spring clearance,8192,332,223.44
+03/21/2024,spring clearance,9974,464,786.08
+03/22/2024,spring clearance,11481,172,213.85
+03/23/2024,spring clearance,17467,631,1549.79
+03/24/2024,spring clearance,16486,274,141.5
+03/25/2024,spring clearance,7450,104,197.58
+03/26/2024,spring clearance,16562,779,1766.72
+03/27/2024,spring clearance,12451,554,1582.29
+04/11/2024,Loyalty Rewards Push,15740,338,773.49
+04/12/2024,Loyalty Rewards Push,12723,251,349.93
+04/13/2024,Loyalty Rewards Push,3736,72,74.77
+04/14/2024,Loyalty Rewards Push,15251,762,637.21
+04/15/2024,Loyalty Rewards Push,14036,120,94.9
+04/16/2024,Loyalty Rewards Push,3301,36,27.76
+04/17/2024,Loyalty Rewards Push,6972,284,829.82
+04/18/2024,Loyalty Rewards Push,10142,183,435.84
+04/19/2024,Loyalty Rewards Push,888,37,55.4
+04/20/2024,Loyalty Rewards Push,12054,468,881.7
+04/21/2024,Loyalty Rewards Push,3334,156,111.89
+04/22/2024,Loyalty Rewards Push,12190,564,261.79
+04/23/2024,Loyalty Rewards Push,12798,243,459.88
+04/24/2024,Loyalty Rewards Push,11071,449,740.84
+04/25/2024,Loyalty Rewards Push,17678,147,306.51
+04/26/2024,Loyalty Rewards Push,17068,782,1516.99
+04/27/2024,Loyalty Rewards Push,1011,17,22.42
+04/28/2024,Loyalty Rewards Push,4052,142,279.63
+04/29/2024,Loyalty Rewards Push,3154,26,69.48
+04/30/2024,Loyalty Rewards Push,14634,354,563.24
+05/01/2024,Loyalty Rewards Push,10346,191,371.96
+05/02/2024,Loyalty Rewards Push,4720,94,44.4
+05/03/2024,Loyalty Rewards Push,3275,57,30.07
+05/04/2024,Loyalty Rewards Push,9566,294,603.71
+05/05/2024,Loyalty Rewards Push,11635,125,265.89
+05/06/2024,Loyalty Rewards Push,16214,557,1645.59
+05/07/2024,Loyalty Rewards Push,17700,733,1867.78
+05/08/2024,Loyalty Rewards Push,12090,521,464.69
+05/09/2024,Loyalty Rewards Push,2739,84,166.47
+05/10/2024,Loyalty Rewards Push,11693,531,1176.72
+05/11/2024,Loyalty Rewards Push,4690,69,142.72
+05/12/2024,Loyalty Rewards Push,14273,178,293.28
+05/13/2024,Loyalty Rewards Push,7307,201,340.08
+05/14/2024,Loyalty Rewards Push,8204,382,326.17
+05/15/2024,Loyalty Rewards Push,5584,135,330.71
+05/16/2024,Loyalty Rewards Push,16427,258,508.73
+05/17/2024,Loyalty Rewards Push,4239,120,272.51
+05/18/2024,Loyalty Rewards Push,4397,137,313.54
+02/24/2024,Aurora Product Launch,1589,15,39.56
+02/25/2024,Aurora Product Launch,12871,405,1150.86
+02/26/2024,Aurora Product Launch,7563,243,702.81
+02/27/2024,Aurora Product Launch,6419,89,187.28
+02/28/2024,Aurora Product Launch,5592,153,258.42
+02/29/2024,Aurora Product Launch,3844,156,177.89
+03/01/2024,Aurora Product Launch,13876,633,1530.44
+03/02/2024,Aurora Product Launch,5697,168,355.15
+03/03/2024,Aurora Product Launch,11797,410,1083.31
+03/04/2024,Aurora Product Launch,16033,184,490.13
+03/05/2024,Aurora Product Launch,1643,44,56.56
+03/06/2024,Aurora Product Launch,6357,249,149.72
+03/07/2024,Aurora Product Launch,4121,60,28.45
+03/08/2024,Aurora Product Launch,8130,76,67.0
+03/09/2024,Aurora Product Launch,530,16,21.5
+03/10/2024,Aurora Product Launch,14764,345,170.18
+03/11/2024,Aurora Product Launch,17160,192,207.39
+03/12/2024,Aurora Product Launch,10306,188,207.37
+03/13/2024,Aurora Product Launch,10283,427,1185.77
+03/14/2024,Aurora Product Launch,474,16,37.42
+03/15/2024,Aurora Product Launch,17992,652,1076.5
+03/16/2024,Aurora Product Launch,14763,561,983.72
+03/17/2024,Aurora Product Launch,10003,276,503.56
+03/18/2024,Aurora Product Launch,12354,319,645.53
+03/19/2024,Aurora Product Launch,969,41,117.77
+03/20/2024,Aurora Product Launch,9845,180,538.29
+03/21/2024,Aurora Product Launch,2611,121,96.03
+03/22/2024,Aurora Product Launch,1529,48,123.06
+03/23/2024,Aurora Product Launch,4059,190,244.97
+03/24/2024,Aurora Product Launch,4012,162,362.34
+03/25/2024,Aurora Product Launch,16185,508,534.33
+09/29/2024,Holiday Gift Guide 2024,11802,259,414.51
+09/30/2024,Holiday Gift Guide 2024,16989,210,353.4
+10/01/2024,Holiday Gift Guide 2024,10152,101,223.95
+10/02/2024,Holiday Gift Guide 2024,16301,336,912.48
+10/03/2024,Holiday Gift Guide 2024,6591,268,409.77
+10/04/2024,Holiday Gift Guide 2024,7970,385,855.73
+10/05/2024,Holiday Gift Guide 2024,5890,245,368.41
+10/06/2024,Holiday Gift Guide 2024,1446,71,41.75
+10/07/2024,Holiday Gift Guide 2024,9759,80,165.33
+10/08/2024,Holiday Gift Guide 2024,6926,323,138.01
+10/09/2024,Holiday Gift Guide 2024,2551,37,95.28
+10/10/2024,Holiday Gift Guide 2024,12284,147,340.88
+10/11/2024,Holiday Gift Guide 2024,7916,313,769.32
+10/12/2024,Holiday Gift Guide 2024,7991,133,255.02
+10/13/2024,Holiday Gift Guide 2024,13106,308,858.98
+10/14/2024,Holiday Gift Guide 2024,16357,782,1843.26
+10/15/2024,Holiday Gift Guide 2024,6591,246,370.49
+10/16/2024,Holiday Gift Guide 2024,8590,344,148.63
+10/17/2024,Holiday Gift Guide 2024,7023,252,609.36
+10/18/2024,Holiday Gift Guide 2024,13062,438,1261.66
+10/19/2024,Holiday Gift Guide 2024,5486,204,388.92
+10/20/2024,Holiday Gift Guide 2024,17580,403,1140.87
+10/21/2024,Holiday Gift Guide 2024,7700,227,592.7
+10/22/2024,Holiday Gift Guide 2024,6762,335,803.13
+10/23/2024,Holiday Gift Guide 2024,1874,45,64.21
+10/24/2024,Holiday Gift Guide 2024,7007,284,470.99
+10/25/2024,Holiday Gift Guide 2024,8088,139,85.81
+10/26/2024,Holiday Gift Guide 2024,2893,25,35.97
+10/27/2024,Holiday Gift Guide 2024,17322,852,784.69
+10/28/2024,Holiday Gift Guide 2024,6468,66,54.09
+10/29/2024,Holiday Gift Guide 2024,10255,208,159.48
+10/30/2024,Holiday Gift Guide 2024,7833,367,1023.96
+10/31/2024,Holiday Gift Guide 2024,4806,204,526.74
+11/01/2024,Holiday Gift Guide 2024,13240,544,773.27
+11/02/2024,Holiday Gift Guide 2024,12152,489,934.44
+11/03/2024,Holiday Gift Guide 2024,10438,242,267.73
+11/04/2024,Holiday Gift Guide 2024,9084,241,391.59
+11/05/2024,Holiday Gift Guide 2024,12425,385,695.69
+11/06/2024,Holiday Gift Guide 2024,9848,252,334.5
+11/07/2024,Holiday Gift Guide 2024,12880,497,879.14
+11/08/2024,Holiday Gift Guide 2024,8369,133,158.96
+11/09/2024,Holiday Gift Guide 2024,10141,138,281.92
+11/10/2024,Holiday Gift Guide 2024,6723,314,626.3
+11/11/2024,Holiday Gift Guide 2024,9398,223,333.38
+09/01/2024,Flash Sale WKND,11371,437,458.57
+09/02/2024,Flash Sale WKND,1801,80,112.37
+09/03/2024,Flash Sale WKND,17959,767,1747.92
+09/04/2024,Flash Sale WKND,9625,207,194.2
+09/05/2024,Flash Sale WKND,16842,556,783.73
+09/06/2024,Flash Sale WKND,4803,134,106.61
+09/07/2024,Flash Sale WKND,6204,117,165.16
+09/08/2024,Flash Sale WKND,11915,150,139.72
+09/09/2024,Flash Sale WKND,13030,111,165.49
+09/10/2024,Flash Sale WKND,13544,588,1147.6
+09/11/2024,Flash Sale WKND,17139,213,206.2
+09/12/2024,Flash Sale WKND,14510,545,1270.74
+09/13/2024,Flash Sale WKND,5650,87,83.38
+09/14/2024,Flash Sale WKND,16633,676,1282.51
+09/15/2024,Flash Sale WKND,845,8,23.52
+09/16/2024,Flash Sale WKND,2085,27,61.74
+09/17/2024,Flash Sale WKND,6504,296,780.88
+09/18/2024,Flash Sale WKND,16219,342,206.06
+09/19/2024,Flash Sale WKND,5261,127,233.16
+09/20/2024,Flash Sale WKND,16877,762,1141.58
+09/21/2024,Flash Sale WKND,8894,340,435.59
+09/22/2024,Flash Sale WKND,1308,65,37.66
+09/23/2024,Flash Sale WKND,5636,94,162.13
+09/24/2024,Flash Sale WKND,4585,157,307.72
+09/25/2024,Flash Sale WKND,15305,207,573.92
+09/26/2024,Flash Sale WKND,16309,328,795.94
+09/27/2024,Flash Sale WKND,11979,568,410.17
+09/28/2024,Flash Sale WKND,5723,81,49.19
+09/29/2024,Flash Sale WKND,14862,675,1950.94
+09/30/2024,Flash Sale WKND,5186,86,257.6
+03/27/2024,Referral Boost,11541,314,217.16
+03/28/2024,Referral Boost,11890,102,61.31
+03/29/2024,Referral Boost,17136,718,330.74
+03/30/2024,Referral Boost,17407,810,595.39
+03/31/2024,Referral Boost,5577,148,344.56
+04/01/2024,Referral Boost,14031,171,153.89
+04/02/2024,Referral Boost,7798,156,262.32
+04/03/2024,Referral Boost,14551,623,1442.81
+04/04/2024,Referral Boost,7123,152,330.07
+04/05/2024,Referral Boost,15697,126,207.19
+04/06/2024,Referral Boost,17222,485,501.08
+04/07/2024,Referral Boost,6560,99,117.14
+04/08/2024,Referral Boost,16998,805,2106.33
+04/09/2024,Referral Boost,5874,231,510.36
+04/10/2024,Referral Boost,9475,229,362.57
+04/11/2024,Referral Boost,17314,707,1895.82
+04/12/2024,Referral Boost,1639,81,236.13
+04/13/2024,Referral Boost,17830,336,346.74
+04/14/2024,Referral Boost,10443,88,123.69
+04/15/2024,Referral Boost,15170,419,741.54
+04/16/2024,Referral Boost,12295,347,377.91
+04/17/2024,Referral Boost,7177,78,67.64
+04/18/2024,Referral Boost,10993,301,693.95
