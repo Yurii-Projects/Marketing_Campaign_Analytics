@@ -4,6 +4,10 @@
 > "We run ads on Google and Facebook and want to know which campaigns are actually driving revenue, not just clicks. Marketing keeps asking for more budget on Facebook — is that justified? Also, our sales team says some conversions aren't showing up as tied to any campaign, which worries them."
 
 ## Final Result
+
+Link: https://app.powerbi.com/view?r=eyJrIjoiYjBiMjIyNjgtYmE2OS00YmNhLTllMmMtN2Q1NmUxZDlkZDRjIiwidCI6IjcwYTI4NTIyLTk2OWItNDUxZi1iZGIyLWFiZmVhM2FhYTViZiIsImMiOjl9
+
+Images:
 ![Page 1](/images/image_1.png)
 ![Page 2](/images/image_2.png)
 
